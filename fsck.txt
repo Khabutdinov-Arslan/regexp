@@ -1,0 +1,15 @@
+FSCK started by pd2020149 (auth:SIMPLE) from /93.175.29.107 at Thu Dec 31 16:49:53 UTC 2020
+
+Block Id: blk_1073971176
+Block belongs to: /data/wiki/en_articles_part/articles-part
+No. of Expected Replica: 3
+No. of live Replica: 3
+No. of excess Replica: 0
+No. of stale Replica: 0
+No. of decommissioned Replica: 1
+No. of decommissioning Replica: 0
+No. of corrupted Replica: 0
+Block replica on datanode/rack: mipt-node01.atp-fivt.org/default is HEALTHY
+Block replica on datanode/rack: mipt-node09.atp-fivt.org/default is DECOMMISSIONED
+Block replica on datanode/rack: mipt-node07.atp-fivt.org/default is HEALTHY
+Block replica on datanode/rack: mipt-node03.atp-fivt.org/default is HEALTHY
